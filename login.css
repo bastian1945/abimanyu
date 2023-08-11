@@ -1,0 +1,149 @@
+@import url(https://fonts.googleapis.com/css2?family=poppins);
+
+*{
+    font-family: poppins;
+}
+body{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f6f8fd;
+    background-image: url();
+    background-size:cover;
+    background-repeat: no-repeat;
+    
+}
+
+
+.input1{
+    font-size: 20px;
+}
+
+.input2{
+    margin-top: 15px;
+    font-size: 20px;
+
+}
+div>h2{
+    font-size: 30px;
+}
+
+body .form-login .btn-login{
+    width: 100%;
+    border: none;
+    height: 40px;
+    border-radius: 50px;
+    background-color: #2447f9;
+    color: #fff;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+
+
+h2{
+    text-align: center;
+}
+body .form-login{
+        padding-left: 30px;
+        background-color:#fff ;
+        padding-right: 30px;
+        padding-bottom: 40px;
+        padding-top: 10px;
+        border-radius: 16px;
+        
+        
+}
+body .form-login h3{
+    text-align: center;
+}
+body .form-login input{
+    margin-bottom: 10px;
+    width: 400px;
+    height: 40px;
+    padding-left: 22px;
+    background-color: #e5e9f2;
+    border: none;
+    border-radius: 50px;
+    font-weight: 600;
+}
+body .form-login p{
+    text-align: right;
+    margin-top: 8px;
+    margin-bottom: 35px;
+    
+}
+
+body .form-login .link-lupa-password{
+
+    text-decoration:none ; 
+    text-align: right;
+    color: #999aa4;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+body .form-login .link-lupa-password:hover{
+       text-decoration: none;
+       text-align: right;
+       color: blue;
+       font-size: 16px;
+       font-weight: 700;
+}
+
+body .form-login .msk-akun{
+    width: 100%;
+    border: none;
+    height: 40px;
+    border-radius: 50px;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: #2447f9;
+}
+body .form-login .daftar-akun{
+    width: 100%;
+    border: none;
+    height: 40px;
+    border-radius: 50px;
+    font-size: 20px;
+    font-weight: 700;
+    background-color:#e5e9f2 ;
+    color: black;
+}
+body .form-login hr{
+    height: 1px;
+    border: none;
+    background-color: #e5e9f2;
+    margin-top: 20px;
+}
+
+body .form-login button{
+    width: 100%;
+    border: none;
+    height: 40px;
+    border-radius: 50px;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: #34364a;
+    color:#fff;
+    margin-top: 20px;
+}
+body .form-login .msk-goggle{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    border: none;
+    height: 40px;
+    border-radius: 50px;
+    font-size: 20px;
+    font-weight: 700;
+    background-color:#34364a;
+    color: white;
+}
+.form-login .msk-goggle .logo img{
+    height: 25px;
+    margin: 5px 7px 2px 0;
+}
+
